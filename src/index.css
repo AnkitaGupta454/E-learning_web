@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    align-items: center;
+    margin:230px;
+    font-weight: bold;
+    font-size: 100px;
+}
+*{
+    background-color: cornflowerblue;
+}
